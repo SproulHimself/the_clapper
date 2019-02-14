@@ -1,8 +1,8 @@
 print('\n')
-print('''  To run this python file,
-   you must download the selenium
-   chromedriver, then drag and drop
-    it into your  “/usr/local/bin”    ''')
+print(''' To run this python file,
+       you must download the selenium
+      chromedriver, then drag and drop
+        it into your  “/usr/local/bin”    ''')
 print()
 print()
 
@@ -18,6 +18,7 @@ from selenium.webdriver.common.keys import Keys
 driver = webdriver.Chrome('/usr/local/bin/chromedriver')
 
 driver.get('https://medium.com/m/signin?redirect=https%3A%2F%2Fmedium.com%2F&operation=login')
+
 
 ####### UNCOMMENT BELOW TO HAVE YOUR COMPUTER TALK ########
 # print('...loading...')
