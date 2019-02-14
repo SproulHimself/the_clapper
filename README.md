@@ -1,5 +1,5 @@
 # The Clapper
 
-## Automated clapper for Medium.com
+## Automated clapper for our blogs
 
 ### Get those hands clappin'
