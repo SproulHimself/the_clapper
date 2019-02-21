@@ -111,7 +111,7 @@ def sign_in_via_twitter(username, password, medium_tag):
 link_root = 'https://medium.com/'
 
 cohort_blog_profiles = ['@adamliscia', '@andrewsproul', '@anthonytapias', '@AudreyLorberfeld', '@augustinechang',
- '@briansrebrenik', '@cruble', '@cbanalyst10', '@chrispfchung', '@chrismanna', '@darshanp1295', '@pruchka',
+ '@briansrebrenik', '@cruble', '@chrispfchung', '@chrismanna', '@darshanp1295', '@pruchka',
  '@emmabernstein2018', '@erika.russi', '@evan13', '@imamun', '@jaimejcheng', '@j.jacisin', '@kahartman95',
  '@kyle.powers103', '@marcellou19', '@mubarakb', '@p.t.bailey04', '@boscacci', '@robert.hillery', '@samiramunir',
  '@scbronder12', '@thomasggrigg', '@vaeb80', '@vishalpatel2890', '@yishuen']
